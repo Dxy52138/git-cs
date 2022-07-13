@@ -9,5 +9,8 @@ public class GitDemo {
         System.out.println("5555555555555555555");
         System.out.println("66666666666666666666");
         System.out.println("7777777777777gitee");
+        System.out.println("8888888888888gitee");
+        System.out.println("9999999999999gitee");
+        System.out.println("10gitee");
     }
 }
