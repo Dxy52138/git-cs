@@ -2,9 +2,9 @@ package csol;
 
 public class GitDemo {
     public static void main(String[] args) {
-        System.out.println("GitHub仓库 修改数据");
-        System.out.println("panzer_坦克");
-        System.out.println("seaways_水上漂");
-        System.out.println("bigbang_爆炸");
+        System.out.println("1111111111111111111");
+        System.out.println("22222222222222222222");
+        System.out.println("33333333333333333333");
+        System.out.println("4444444444444444444");
     }
 }
