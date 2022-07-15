@@ -12,5 +12,8 @@ public class GitDemo {
         System.out.println("8888888888888gitee");
         System.out.println("9999999999999gitee");
         System.out.println("10gitee");
+        System.out.println("霸气");
+        System.out.println("花楼");
+        System.out.println("360");
     }
 }
